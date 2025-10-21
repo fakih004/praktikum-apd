@@ -1,0 +1,1 @@
+is_dokter = login_dokter()

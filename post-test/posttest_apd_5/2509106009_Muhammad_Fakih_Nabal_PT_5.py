@@ -13,6 +13,11 @@ while True:
 =============================================
 |           PENDATAAN PASIEN (CRUD)         |
 =============================================
+1. Tambah Data Pasien
+2. Lihat Data Pasien
+3. Ubah Data Pasien
+4. Hapus Data Pasien
+5. Keluar
 """)
 
     pilihan = input("Pilih menu (1-5): ")
@@ -132,3 +137,6 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan coba lagi")
+
+
+
